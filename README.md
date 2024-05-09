@@ -1,5 +1,5 @@
 # React + Vite
-
+DEPLOY URL https://shimmering-churros-52e25f.netlify.app/
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
